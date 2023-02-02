@@ -14,6 +14,8 @@
  
  unzip MinecraftClient-linux.zip
  
+ rm MinecraftClient-linux.zip
+ 
  sudo apt install nano
  
  nano MinecraftClient.ini
