@@ -22,4 +22,10 @@
  
  修改完毕之后
  
+ sudo apt install screen
+ 
+ screen
+ 
  ./MinecraftClient
+
+需要回到之前的screen就输入 screen -r
