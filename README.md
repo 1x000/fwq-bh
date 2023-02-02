@@ -8,7 +8,11 @@
  
  git clone https://github.com/1x000/fwq-bh.git
  
- fwq-bh
+ cd fwq-bh
+ 
+ sudo apt install unzip
+ 
+ unzip MinecraftClient-linux.zip
  
  sudo apt install nano
  
