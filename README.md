@@ -6,7 +6,7 @@
  
  cd dalueu
  
- gitclone https://github.com/1x000/fwq-bh.git
+ git clone https://github.com/1x000/fwq-bh.git
  
  sudo apt install nano
  
