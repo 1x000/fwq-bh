@@ -1,6 +1,6 @@
 # fwq-bh
  
- 服务器保活
+ MC服务器保活
  
  mkdir dalueu
  
