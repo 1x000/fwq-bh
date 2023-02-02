@@ -8,6 +8,8 @@
  
  git clone https://github.com/1x000/fwq-bh.git
  
+ fwq-bh
+ 
  sudo apt install nano
  
  nano MinecraftClient.ini
